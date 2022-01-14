@@ -88,3 +88,23 @@ header > p{
     border: 0.1em solid black;
     border-radius: 2em;
 }
+
+@media only screen and (min-width: 50rem) { 
+    .bookcase{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .book-club{
+        width: 80vw;
+    }
+}
+    
+@media only screen and (min-width: 80rem) {  
+    .bookcase{
+    grid-template-columns: repeat(3, 1fr);
+    }
+
+    .book-club{
+    width: 80vw;
+    }
+}

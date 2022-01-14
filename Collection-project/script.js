@@ -6,7 +6,7 @@ const books = [{
     genre: 'Contemporary',
     summary: ''
 },{
-    cover: 'https://media.s-bol.com/myPVjmko951E/550x824.jpg',
+    cover: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595820808l/53260224.jpg',
     title: 'White Tears Brown Scars',
     autor: 'Ruby Hamad',
     pages: '304 pages',
